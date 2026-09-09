@@ -50,5 +50,5 @@ A passionate Software Engineering student with a strong interest in full-stack w
 ## 📬 Connect with Me
 
 * **Location:** Mojokerto, East Java, Indonesia
-* **GitHub:** [github.com/username](https://github.com)
+* **GitHub:** [github.com/Noirval-gmd](https://github.com)
 *
